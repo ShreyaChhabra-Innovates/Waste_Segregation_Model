@@ -120,7 +120,7 @@ def main():
         # Display results
         st.image(image, caption='Successfully Uploaded Image', use_container_width=True)
         st.markdown(f"**Prediction:** This is **{prediction}** waste.")
-        st.markdown(f"**Confidence:** The model is **{confidence:.2f}%** confident in this prediction.")
+        st.markdown(f"**Accuracy:** **{confidence:.2f}%**")
 
 if __name__ == "__main__":
     main()
