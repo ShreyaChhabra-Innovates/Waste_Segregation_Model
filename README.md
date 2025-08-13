@@ -6,7 +6,7 @@ Sample Output:
 
 <img width="1324" height="820" alt="Screenshot 2025-08-13 183259" src="https://github.com/user-attachments/assets/9e6e5539-eab4-4e1d-844c-ad4147c4677e" />
 
-<img width="1357" height="1215" alt="Screenshot 2025-08-13 183519" src="https://github.com/user-attachments/assets/62cdb9d8-2af6-4c9a-b082-15d2583f1551" />
+<img width="1378" height="1331" alt="Screenshot 2025-08-13 183903" src="https://github.com/user-attachments/assets/92bc49e5-ace9-49e2-bd44-fa74cc77285e" />
 
 <img width="1363" height="907" alt="Screenshot 2025-08-13 183446" src="https://github.com/user-attachments/assets/d3cbf086-4160-41e1-a13b-6e6b78090862" />
 
