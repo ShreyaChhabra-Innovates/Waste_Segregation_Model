@@ -13,8 +13,8 @@ st.set_page_config(
 )
 
 # IMPORTANT: Replace this URL with the actual link to your MobileNetV2 model file
-MODEL_URL = 'https://github.com/your-username/your-repo/releases/download/v1.0.0/mobilenet_v2_model.pth'
-MODEL_PATH = 'mobilenet_v2_model.pth'
+MODEL_URL = 'https://github.com/ShreyaChhabra-Innovates/Waste_Segregation_Model/releases/download/v1.0.0/waste_model_gpu.pth'
+MODEL_PATH = 'waste_model_gpu.pth'
 
 # --- Function to download the model ---
 @st.cache_data
