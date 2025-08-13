@@ -1,5 +1,13 @@
 # Waste_Segregation_Model
-Link :https://waste-segregation-model.streamlit.app/
+
+Agenda : Waste segregation, separating biodegradable and non-biodegradable materials, is crucial for effective waste management, environmental protection, and resource conservation.
+Segregation enables efficient recycling, composting, and other waste processing methods, reducing landfill burden and minimizing environmental pollution. 
+
+About the Model : This Waste_Segregation_Model is built using CNN transfer learning model (
+
+For Dataset :https://www.kaggle.com/datasets/techsash/waste-classification-data
+
+Streamlit Link :https://waste-segregation-model.streamlit.app/
 
 Sample Output:
 <img width="2537" height="1075" alt="Screenshot 2025-08-13 183252" src="https://github.com/user-attachments/assets/12e4236a-c5dc-409d-9196-87a1584c9915" />
