@@ -112,7 +112,7 @@ def main():
         prediction, confidence = predict(model, image)
 
         # Display results
-        st.image(image, caption='Successfully Uploaded Image', use_column_width=True)
+        st.image(image, caption='Successfully Uploaded Image', use_container_width=True)
         st.markdown(f"**Prediction:** This is **{prediction}** waste.")
         st.markdown(f"**Confidence:** The model is **{confidence:.2f}%** confident in this prediction.")
 
