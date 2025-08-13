@@ -3,7 +3,10 @@
 Agenda : Waste segregation, separating biodegradable and non-biodegradable materials, is crucial for effective waste management, environmental protection, and resource conservation.
 Segregation enables efficient recycling, composting, and other waste processing methods, reducing landfill burden and minimizing environmental pollution. 
 
-About the Model : This Waste_Segregation_Model is built using CNN transfer learning model (
+About the Model : This Waste_Segregation_Model is built using CNN transfer learning model (MobileNetV2), and Binary Classification to segregate Waste images into Biodegradable and Non-Biodegradable.
+
+With Accuracy : Train =  and Test =
+
 
 For Dataset :https://www.kaggle.com/datasets/techsash/waste-classification-data
 
