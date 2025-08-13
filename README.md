@@ -20,6 +20,9 @@ Training Accuracy: 92.86%
 
 Test Accuracy: 91.96%
 
+<img width="876" height="580" alt="image" src="https://github.com/user-attachments/assets/bbbdfcfc-0142-44ea-a01d-8121b9eaaf92" />
+
+
 
 **For Dataset** :https://www.kaggle.com/datasets/techsash/waste-classification-data
 
