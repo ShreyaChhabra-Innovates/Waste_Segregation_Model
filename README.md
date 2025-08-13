@@ -5,7 +5,10 @@ Segregation enables efficient recycling, composting, and other waste processing 
 
 About the Model : This Waste_Segregation_Model is built using CNN transfer learning model (MobileNetV2), and Binary Classification to segregate Waste images into Biodegradable and Non-Biodegradable.
 
-With Accuracy : Train =  and Test =
+Model Accuracy:
+Training Accuracy: 92.86%
+Test Accuracy: 91.96%
+
 
 
 For Dataset :https://www.kaggle.com/datasets/techsash/waste-classification-data
