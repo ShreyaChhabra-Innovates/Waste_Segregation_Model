@@ -15,6 +15,7 @@ Segregation enables efficient recycling, composting, and other waste processing 
 
 
 **Model Accuracy**:
+
 Training Accuracy: 92.86%
 
 Test Accuracy: 91.96%
