@@ -81,8 +81,8 @@ def predict(model, image):
     
     prob = torch.sigmoid(output).item()
     pred = "Biodegradable" if prob < 0.7 else "Non-Biodegradable"
-    conf = round(100 * (1 - prob if pred == "Biodegradable" else prob), 2)
-    
+   # conf = round(100 * (1 - prob if pred == "Biodegradable" else prob), 2)
+    conf = round(100 * (prob if pred == "Biodegradable" else prob), 2)
     return pred, conf
 def main():
     """Main function to run the Streamlit app"""
