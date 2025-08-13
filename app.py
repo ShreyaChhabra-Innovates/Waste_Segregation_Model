@@ -88,8 +88,14 @@ def main():
     """Main function to run the Streamlit app"""
     st.title('Waste Segregation Model ♻️')
     st.markdown("""
-    This application uses a trained **MobileNetV2** model to classify images as either
-    **Biodegradable** or **Non-Biodegradable**.
+    This application is trained using CNN transfer learning model (MobileNetV2), and Binary Classification to segregate Waste images into Biodegradable and Non-Biodegradable.
+   
+    Project Aim: Safe Desposal and Waste Treatment.
+
+    Explore by uploading Waste images and see how it works!
+
+    Github Repository: https://github.com/ShreyaChhabra-Innovates/Waste_Segregation_Model
+   
     """)
 
     # Download and load the model once
