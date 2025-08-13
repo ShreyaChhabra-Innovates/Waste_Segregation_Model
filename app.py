@@ -80,7 +80,7 @@ def predict(model, image):
         output = model(img_tensor)
     
     prob = torch.sigmoid(output).item()
-    pred = "Biodegradable" if prob < 0.5 else "Non-Biodegradable"
+    pred = "Biodegradable" if prob < 0.7 else "Non-Biodegradable"
     conf = round(100 * (1 - prob if pred == "Biodegradable" else prob), 2)
     
     return pred, conf
