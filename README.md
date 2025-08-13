@@ -13,17 +13,21 @@ Segregation enables efficient recycling, composting, and other waste processing 
 4. **Bottleneck Layers**: Expands channels (e.g., 32→96→144) before compressing spatial dimensions.  
 5. **Final Output**: Global averaging reduces 4x4 features → **1x1** vector for classification.
 
-**Model Accuracy**:
 
+**Model Accuracy**:
 Training Accuracy: 92.86%
+
 Test Accuracy: 91.96%
 
 
 **For Dataset** :https://www.kaggle.com/datasets/techsash/waste-classification-data
 
+
 **Streamlit Link** :https://waste-segregation-model.streamlit.app/
 
+
 **Sample Output**:
+
 <img width="2537" height="1075" alt="Screenshot 2025-08-13 183252" src="https://github.com/user-attachments/assets/12e4236a-c5dc-409d-9196-87a1584c9915" />
 
 Sample 1: <img width="1324" height="820" alt="Screenshot 2025-08-13 183259" src="https://github.com/user-attachments/assets/9e6e5539-eab4-4e1d-844c-ad4147c4677e" />
